@@ -1,0 +1,25 @@
+RE 5  7 
+WE 31  7 
+Component Cres 13  7 R5 
+Initial  20 
+Limit R5 >  0 
+Component Ccpe 23  7 Yo8 a9 
+Initial  0.00001 
+Initial  1 
+Limit Yo8 >  0 
+Limit a9 >  0 
+Wire 17  7  23  7 
+Wire 5  7  13  7 
+Wire 27  7  31  7 
+ParamList  3 
+ R5  20  1  0  0  0 ohm ohm*cm^2
+ Yo8  0.00001  1  0  0  0 S*s^a S*s^a/cm^2
+ a9  1  1  0  0  0  
+CheqList  3 
+ Cres  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+ Ccpe  1   2   0   0   0   0   0   0   0   0   0   0   0   0   0 
+ Cser  0   1   0   0   0   0   0   0   0   0   0   0   0   0   0 
+LastValues 3
+R5 11.08
+Yo8 8.209e-006
+a9 0.7231

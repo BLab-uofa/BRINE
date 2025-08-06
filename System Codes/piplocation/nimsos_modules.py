@@ -80,8 +80,8 @@ class selection():
             self.num_objectives, self.num_proposals, self.num_inputs).select()
             return res
         
-        if self.method == "SMAC3_EXPLOIT":
-            res = nimsos.ai_tools.ai_tool_smac3_exploiter.SMAC3(self.input_file, self.output_file, 
+        if self.method == "SMAC3_EXPLORE":
+            res = nimsos.ai_tools.ai_tool_smac3_explorer.SMAC3(self.input_file, self.output_file, 
             self.num_objectives, self.num_proposals, self.num_inputs).select()
             return res
         

@@ -15,7 +15,7 @@ from .ai_tools import ai_tool_pdc
 from .ai_tools import ai_tool_gauche
 
 from .ai_tools import ai_tool_smac3
-from .ai_tools import ai_tool_smac3_exploiter
+from .ai_tools import ai_tool_smac3_explorer
 from .ai_tools import ai_tool_smac3_exploiter_regionbased
 
 from .ai_tools import ai_tool_individuals
