@@ -1,2 +1,2 @@
-In this folder, you will find the figures and data. Before every label, the associated reference is mentioned, e.g., FIG2_... corresponds to Figure 2.
+In this folder, you will find the figures and data. Before every label, the associated reference is mentioned, e.g., FIG_3_4_S5... corresponds to Figures 3, 4 and S5.
 <br>If you wish to rerun any Python/Jupyter file, ensure the path to the source data is changed according to the location it is downloaded.
