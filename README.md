@@ -6,6 +6,7 @@ This repository contains the full software, code, and data associated with our p
 **_“BRINE: a cost-effective electrochemical self-driving laboratory for accelerated discovery of high-performance electrolytes”_**
 
 The main components of BRINE are:
+
 1- [An Opentrons OT-2 Robot](https://opentrons.com/products/ot-2-robot?srsltid=AfmBOop2U2at9Ne7-Tz4TYwEO5btvU1xDM40zKmOTEn55puyaim4lPge&sku=999-00111,%20999-00002,%20999-00002)
 
 2- [NIMS-OS for Orchestration](https://github.com/nimsos-dev/nimsos)
