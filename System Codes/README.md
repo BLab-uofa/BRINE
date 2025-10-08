@@ -1,0 +1,1 @@
+In this folder, you will all the fundamental codes used in BRINE, including the orchestrator code (NIMS-OS), potentiostat (Gamry interface), Opentrons OT2, and Bayesian optimisation (SMAC3).
