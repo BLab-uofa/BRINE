@@ -5,7 +5,7 @@ This repository contains the full software, code, and data associated with our p
 
 **_“BRINE: a cost-effective electrochemical self-driving laboratory for accelerated discovery of high-performance electrolytes”_**
 
-📄 Please cite our paper: ([https://doi.org/xxx](https://doi.org/10.1039/D5DD00353A))  
+📄 Please cite our paper: (https://doi.org/10.1039/D5DD00353A)
 *(DOI link will be updated upon publication)*
 
 ---
